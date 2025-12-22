@@ -1,0 +1,84 @@
+############################
+# Visual Studio
+############################
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# IntelliSense / Browser database
+*.VC.db
+*.VC.opendb
+*.ipch
+
+# Build results
+[Bb]in/
+[Oo]bj/
+Debug/
+Release/
+x64/
+x86/
+build/
+out/
+
+# MSBuild logs
+*.tlog
+
+# Visual Studio cache files
+*.cache
+*.pdb
+*.ilk
+*.iobj
+*.idb
+
+############################
+# Compiled binary files
+############################
+*.dll
+*.exe
+*.jar
+*.so
+*.o
+*.obj
+*.lib
+*.a
+*.class
+*.classpath
+*.project
+*.prefs
+
+############################
+# OS / Tools
+############################
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Mac
+.DS_Store
+
+# Python cache (혹시 프로젝트에 파이썬 스크립트 있을 경우)
+__pycache__/
+*.pyc
+
+*.env
+############################
+# Archives
+############################
+*.zip
+*.rar
+*.7z
+
+############################
+# Logs
+############################
+*.log
+
+############################
+# 기타 자동 생성 파일
+############################
+*.tmp
+*.temp
+*.bak
